@@ -1,1 +1,18 @@
 # Law-Enforcement-Data-Analysis
+This project is aimed at showcasing the utilization of Power BI for analyzing law enforcement data. Law enforcement agencies gather vast amounts of data through various sources such as crime reports, calls for service, arrests, and more. Analyzing this data can provide valuable insights for improving public safety strategies, resource allocation, and decision-making processes.
+
+Overview
+This repository contains a Power BI project file (.pbix) along with sample law enforcement datasets for demonstration purposes. The Power BI file is designed to visualize and analyze different aspects of law enforcement data, including:
+
+Crime trends over time
+Geographic distribution of crimes
+Analysis of crime types
+Demographic insights
+Resource allocation optimization
+
+Here is my Dashboard Links:
+Law Enforcement by Agency
+![https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/1#issue-2220063146](https://www.novypro.com/project/law-enforcement-by-agency)
+
+Law Enforcement By Campus
+![https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/2#issue-2220066269](https://www.novypro.com/project/law-enforcement-by-campus)
