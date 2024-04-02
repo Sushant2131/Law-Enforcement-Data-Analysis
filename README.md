@@ -11,8 +11,8 @@ Demographic insights
 Resource allocation optimization
 
 Here is my Dashboard Links:
-Law Enforcement by Agency
-![https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/1#issue-2220063146](https://www.novypro.com/project/law-enforcement-by-agency)
+Law Enforcement by Agency:
+![Screenshot 2024-04-02 152139](https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/assets/74125735/4349e582-4952-418d-947e-8f88099732e7)(https://www.novypro.com/project/law-enforcement-by-agency)
 
-Law Enforcement By Campus
-![https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/2#issue-2220066269](https://www.novypro.com/project/law-enforcement-by-campus)
+Law Enforcement By Campus:
+[![https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/2#issue-2220066269]](https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/issues/2#issue-2220066269)(https://www.novypro.com/project/law-enforcement-by-campus)
