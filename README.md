@@ -14,8 +14,17 @@ Here is my Dashboard Links:
 
 Law Enforcement by Agency:
 
-![Screenshot 2024-04-02 152139](https://www.novypro.com/project/law-enforcement-by-agency)
+![Screenshot 2024-04-02 152348](https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/assets/74125735/b97beef6-106d-4c02-9fe5-10e87f252876)
+
 
 Law Enforcement By Campus:
 
-![Screenshot 2024-04-02 152139](https://www.novypro.com/project/law-enforcement-by-campus)
+![Screenshot 2024-04-02 152139](https://github.com/Sushant2131/Law-Enforcement-Data-Analysis/assets/74125735/443679c5-50e0-4e0a-8e78-ea13d3db8215)
+
+
+Here is Dashboard link:
+
+(https://www.novypro.com/project/law-enforcement-by-agency)
+
+(https://www.novypro.com/project/law-enforcement-by-campus)
+
